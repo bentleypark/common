@@ -19,8 +19,17 @@ android {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
+//        debug {
+//            debuggable true
+//            buildConfigField "String", "PHASE", PHASE_Debug
+//        }
+//        staging {
+//            initWith debug
+//            buildConfigField "String", "PHASE", PHASE_Staging
+//        }
     }
-
+    publishNonDefault true
+//    defaultPublishConfig "debug"
 }
 
 dependencies {

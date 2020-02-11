@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <!-- language -->
     <string name="lang_ko">한국어</string>
     <string name="lang_en">영어</string>
@@ -74,4 +74,7 @@
 
     <!-- placeholder -->
     <string name="placeholder_message_input">소통 창구에 문의나 상담을 원하시면 친절히 답해드리겠습니다.</string>
+
+    <!-- For sovoro waffle    -->
+    <string name="text_license_hint" translatable="false">라이선스 입력</string>
 </resources>
