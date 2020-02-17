@@ -88,6 +88,7 @@
     <string name="permission_dialog_title">권한필요</string>
     <string name="update_message">업데이트 진행 중....</string>
     <string name="update_guide_message">APK 파일을 다운로드하고 있습니다.\n다운로드가 완료되면 설치 화면으로 이동합니다.</string>
+    <string name="licese_error_message2">이미 다른 라이선스가 등록된 기기입니다.</string>
 
     <string-array name="school_array">
         <item>초등학교</item>
