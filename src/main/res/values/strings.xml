@@ -75,6 +75,31 @@
     <!-- placeholder -->
     <string name="placeholder_message_input">소통 창구에 문의나 상담을 원하시면 친절히 답해드리겠습니다.</string>
 
+
     <!-- For sovoro waffle    -->
-    <string name="text_license_hint" translatable="false">라이선스 입력</string>
+    <string name="userinfo_activity_title">환영합니다</string>
+    <string name="userinfo_activity_message">사용 전에 학교와 학년을 입력해주세요\n입력하신 정보는 정확도 향상에 반영됩니다.</string>
+    <string name="btn_complete_title">선택완료</string>
+    <string name="license_error_message">등록되지 않은 라이선스입니다.</string>
+    <string name="network_connectivity_error_message">인터넷이 연결되어 있지 않아 소보로를 사용할 수 없습니다.\n인터넷 연결상태를 확인해 주세요.</string>
+    <string name="update_dialog_title">소보로 업데이트</string>
+    <string name="update_dialog_message">소보로 개발자가 앱을 최신 버전으로\n업데이트 할 것을 권장합니다.</string>
+    <string name="update_dialog_positive_btn_title">업데이트</string>
+    <string name="update_dialog_negative_btn_title">다음에하기</string>
+    <string name="permission_dialog_title">권한필요</string>
+    <string name="update_message">업데이트 진행 중....</string>
+    <string name="update_guide_message">APK 파일을 다운로드하고 있습니다.\n다운로드가 완료되면 설치 화면으로 이동합니다.</string>
+
+    <string-array name="school_array">
+        <item>초등학교</item>
+        <item>중학교</item>
+        <item>고등학교</item>
+        <item>학교를 선택하세요.</item>
+    </string-array>
+    <string-array name="school_grade_array">
+        <item>1학년</item>
+        <item>2학년</item>
+        <item>3학년</item>
+        <item>학년을 선택하세요.</item>
+    </string-array>
 </resources>

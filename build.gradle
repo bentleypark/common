@@ -3,7 +3,6 @@ apply plugin: 'com.android.library'
 android {
     compileSdkVersion 28
 
-
     defaultConfig {
         minSdkVersion 26
         targetSdkVersion 28
@@ -19,22 +18,11 @@ android {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
-//        debug {
-//            debuggable true
-//            buildConfigField "String", "PHASE", PHASE_Debug
-//        }
-//        staging {
-//            initWith debug
-//            buildConfigField "String", "PHASE", PHASE_Staging
-//        }
     }
-    publishNonDefault true
-//    defaultPublishConfig "debug"
 }
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
-
     implementation 'androidx.appcompat:appcompat:1.1.0'
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'androidx.test.ext:junit:1.1.0'
