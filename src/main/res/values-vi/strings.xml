@@ -89,6 +89,11 @@
     <string name="update_message">업데이트 진행 중....</string>
     <string name="update_guide_message">APK 파일을 다운로드하고 있습니다.\n다운로드가 완료되면 설치 화면으로 이동합니다.</string>
     <string name="licese_error_message2">이미 다른 라이선스가 등록된 기기입니다.</string>
+    <string name="booster_setting_dialog_title">정확도 부스터</string>
+    <string name="booster_setting_dialog_info_message">현재 수업 과목을 선택하면 문자 통역 정확도가 향상됩니다.</string>
+    <string name="booster_setting_dialoag_btn_userInfo_title">변경</string>
+    <string name="booster_dialog_btn_apply">적용하기</string>
+    <string name="booster_setting_dialog_selected_subject_list">선택 과목 목록</string>
 
     <string-array name="school_array">
         <item>초등학교</item>
