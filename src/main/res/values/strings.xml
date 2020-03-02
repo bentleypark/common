@@ -95,6 +95,10 @@
     <string name="booster_setting_dialoag_btn_userInfo_title">변경</string>
     <string name="booster_dialog_btn_apply">적용하기</string>
     <string name="booster_setting_dialog_selected_subject_list">선택 과목 목록</string>
+    <string name="tab_text_1">문자통역</string>
+    <string name="tab_text_2">소통공간</string>
+    <string name="tab_text_3">"고객지원 "</string>
+    <string name="tab_text_4">사용가이드</string>
 
     <string-array name="school_array">
         <item>초등학교</item>
