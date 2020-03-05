@@ -99,6 +99,7 @@
     <string name="tab_text_2">소통공간</string>
     <string name="tab_text_3">"고객지원 "</string>
     <string name="tab_text_4">사용가이드</string>
+    <string name="initial_default_message">문자 통역 버튼을 누르면 소보로 문자 통역을 시작합니다.</string>
 
     <string-array name="school_array">
         <item>초등학교</item>
