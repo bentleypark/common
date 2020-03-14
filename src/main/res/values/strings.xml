@@ -103,6 +103,7 @@
     <string name="license_not_assigned_error_message">아직 할당되지 않은 라이선스입니다.</string>
     <string name="license_already_activated_error_message">이미 등록된 라이선스입니다.</string>
     <string name="btn_modified_complete_title">변경완료</string>
+    <string name="translatinon_stop_message">문자 통역이 정지되었습니다.</string>
 
     <string-array name="school_array">
         <item>초등학교</item>
