@@ -105,6 +105,7 @@
     <string name="translatinon_stop_message">문자 통역이 정지되었습니다.</string>
     <string name="text_license_title">소보로를 사용하려면 아래의 빈칸에 라이선스를 입력하세요.</string>
     <string name="text_license_hint">라이선스를 입력하세요.</string>
+    <string name="translation_stop_message_without_voice">5분 동안 음성 입력이 없어 문자 통역이 자동 정되었습니다.</string>
 
     <string-array name="school_array">
         <item>초등학교</item>
