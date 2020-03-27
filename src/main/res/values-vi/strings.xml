@@ -110,6 +110,7 @@
     <string name="delete_translation_dialog_content">자막이 삭제되면 다시 복구할 수 없습니다.</string>
     <string name="delete_translation_dialog_positivie_btn_title">삭제</string>
     <string name="delete_translation_dialog_nagativie_btn_title">취소</string>
+    <string name="delete_translation_message">모든 자막이 삭제되었습니다.</string>
 
     <string-array name="school_array">
         <item>초등학교</item>
