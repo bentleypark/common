@@ -111,6 +111,7 @@
     <string name="delete_translation_dialog_positivie_btn_title">삭제</string>
     <string name="delete_translation_dialog_nagativie_btn_title">취소</string>
     <string name="delete_translation_message">모든 자막이 삭제되었습니다.</string>
+    <string name="copy_translation_message">문자 통역 내용이 복사되었습니다.</string>
 
     <string-array name="school_array">
         <item>초등학교</item>
