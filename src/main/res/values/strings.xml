@@ -113,6 +113,18 @@
     <string name="delete_translation_dialog_nagativie_btn_title">취소</string>
     <string name="delete_translation_message">모든 자막이 삭제되었습니다.</string>
     <string name="copy_translation_message">문자 통역 내용이 복사되었습니다.</string>
+    <string name="setting_dialog_title">설정</string>
+    <string name="text_size_preference_title">텍스트 크기</string>
+    <string name="primary_language_code_title">기본 언어</string>
+    <string name="primary_language_code_guide_message">2개 국어 이상 표현되는 문자 통역의 주 언어를 설정합니다.</string>
+    <string name="secondary_language_code_title">보조 언어</string>
+    <string name="secondary_language_code_guide_message">2개 국어 이상 표현되는 문자 통역의 보조 언어를 설정합니다.</string>
+    <string name="auto_translation_stop_title">음성 미입력 자동 정지</string>
+    <string name="auto_stop_switch_guide_message">5분동안 음성이 미입력일때 문자통역이 자동 정지 됩니다.</string>
+    <string name="slang_screening_title">비속어 방지</string>
+    <string name="slang_screening_guide_message">문자 통역시 나오는 비속어나 욕설을 가려줍니다.</string>
+    <string name="low_confidence_display_title">신뢰도 낮은 자막 표시</string>
+    <string name="low_confidence_display_guide_message">문자 통역 시 자막의 신뢰도가 낮은 단어를 보여줍니다.</string>
 
     <string-array name="school_array">
         <item>초등학교</item>
