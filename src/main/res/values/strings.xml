@@ -138,4 +138,13 @@
         <item>3학년</item>
         <item>학년을 선택하세요.</item>
     </string-array>
+    <string-array name="language_code_array">
+        <item>한국어</item>
+        <item>영어</item>
+        <item>일본어</item>
+        <item>중국어</item>
+        <item>독일어</item>
+        <item>스페인어</item>
+        <item>베트남어</item>
+    </string-array>
 </resources>
