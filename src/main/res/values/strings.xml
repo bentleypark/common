@@ -125,6 +125,9 @@
     <string name="slang_screening_guide_message">문자 통역시 나오는 비속어나 욕설을 가려줍니다.</string>
     <string name="low_confidence_display_title">신뢰도 낮은 자막 표시</string>
     <string name="low_confidence_display_guide_message">문자 통역 시 자막의 신뢰도가 낮은 단어를 보여줍니다.</string>
+    <string name="external_device_connected_message">외부기기가 연결되었습니다.</string>
+    <string name="external_device_connection_with_translation_start_guide_message">연결된 기기의 음성으로 문자통역을 시작합니다.</string>
+    <string name="external_device_unconnected_message">외부기기가 연결이 해제되어 문자통역을 중지합니다.</string>
 
     <string-array name="school_array">
         <item>초등학교</item>
