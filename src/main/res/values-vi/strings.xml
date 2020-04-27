@@ -150,4 +150,23 @@
         <item>스페인어</item>
         <item>베트남어</item>
     </string-array>
+    <string-array name="support_item_array">
+        <item>웹사이트/이메일/SNS</item>
+        <item>앱 정보</item>
+        <item>이용약관</item>
+        <item>개인정보처리방침</item>
+    </string-array>
+    <string-array name="social_item_array">
+        <item>웹사이트</item>
+        <item>이메일</item>
+        <item>페이스북</item>
+        <item>인스타그램</item>
+        <item>카카오톡 채널</item>
+    </string-array>
+    <string-array name="sovoro_info_array">
+        <item>소보로 버전</item>
+        <item>제품 라이선스</item>
+        <item>소보로탭 시리얼 넘버</item>
+        <item>안드로이드 버전</item>
+    </string-array>
 </resources>
