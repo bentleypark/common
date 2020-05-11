@@ -92,12 +92,13 @@
     <string name="licese_error_message2">이미 다른 라이선스가 등록된 기기입니다.</string>
     <string name="booster_setting_dialog_title">정확도 부스터</string>
     <string name="booster_setting_dialog_info_message">현재 수업 과목을 선택하면 문자 통역 정확도가 향상됩니다.</string>
-    <string name="booster_setting_dialoag_btn_userInfo_title">변경</string>
+    <string name="booster_setting_dialog_btn_userInfo_title">변경</string>
     <string name="booster_dialog_btn_apply">적용하기</string>
+    <string name="booster_dialog_btn_no_apply">적용해제</string>
     <string name="booster_setting_dialog_selected_subject_list">선택 과목 목록</string>
     <string name="tab_text_1">문자통역</string>
     <string name="tab_text_2">소통공간</string>
-    <string name="tab_text_3">"고객지원 "</string>
+    <string name="tab_text_3">고객지원</string>
     <string name="tab_text_4">사용가이드</string>
     <string name="initial_default_message">문자 통역 버튼을 누르면 소보로 문자 통역을 시작합니다.</string>
     <string name="license_not_assigned_error_message">아직 할당되지 않은 라이선스입니다.</string>
