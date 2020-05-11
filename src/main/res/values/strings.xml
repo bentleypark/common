@@ -172,7 +172,16 @@
         <item>소보로탭 시리얼 넘버</item>
         <item>안드로이드 버전</item>
     </string-array>
-
+    <string-array name="custom_guide_array">
+        <item>정확도 부스터 안내</item>
+        <item>소통공간 안내</item>
+        <item>설정 안내</item>
+        <item>삭제/복사 안내</item>
+        <item>영상 자막 시청 안내</item>
+        <item>통화 자막 시청 안내</item>
+        <item>무선 마이크 사용 안내</item>
+        <item>기타 유의사항</item>
+    </string-array>
     <string name="rules_of_use">
 <![CDATA[
 
