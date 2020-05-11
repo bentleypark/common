@@ -165,6 +165,13 @@
         <item>인스타그램</item>
         <item>카카오톡 채널</item>
     </string-array>
+    <string-array name="social_url_array">
+        <item>www.sovoro.kr</item>
+        <item>contact@sovoro.kr</item>
+        <item>www.facebook.com/sovoro.kr/</item>
+        <item>www.instagram.com/sovoro_official/</item>
+        <item>pf.kakao.com/_bjzxcj</item>
+    </string-array>
     <string-array name="sovoro_info_array">
         <item>소보로 버전</item>
         <item>제품 라이선스</item>
