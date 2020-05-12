@@ -133,6 +133,7 @@
     <string name="title_activity_rule">이용약관</string>
     <string name="spinner_school_hint_message">학교를 선택해주세요.</string>
     <string name="spinner_level_hint_message">학년을 선택해주세요.</string>
+    <string name="communication_edit_text_hint_message">소보로에 문의하실 메세지를 입력해주세요. 왼쪽 첨부 버튼을 누르시 사진이나 동영상을 첨부 하실 수 있습니다.</string>
     <string-array name="school_array">
         <item>초등학교</item>
         <item>중학교</item>
