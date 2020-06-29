@@ -43,6 +43,7 @@
     <string name="tab_text_2">소통공간</string>
     <string name="tab_text_3">고객지원</string>
     <string name="tab_text_4">사용가이드</string>
+    <string name="tab_text_5">라이브러리</string>
     <string name="initial_default_message">문자 통역 버튼을 누르면 소보로 문자 통역을 시작합니다.</string>
     <string name="license_not_assigned_error_message">아직 할당되지 않은 라이선스입니다.</string>
     <string name="license_already_activated_error_message">이미 등록된 라이선스입니다.</string>
@@ -81,6 +82,7 @@
     <string name="low_internet_connection_warning_message">인터넷 연결이 불안정하여 통역이 정확하지 않을 수 있습니다.</string>
     <string name="attachment_upload_message">파일 업로드 중입니다. 잠시만 기다려주세요…</string>
     <string name="attachment_upload_fail_message">파일 업로드를 실패하였습니다…</string>
+    <string name="title_activity_custom_guide">고객가이드</string>
     <string-array name="school_array">
         <item>초등학교</item>
         <item>중학교</item>
