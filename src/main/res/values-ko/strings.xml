@@ -116,6 +116,7 @@
         <item>앱 정보</item>
         <item>이용약관</item>
         <item>개인정보처리방침</item>
+        <item>사용가이드</item>
     </string-array>
     <string-array name="social_item_array">
         <item>웹사이트</item>
