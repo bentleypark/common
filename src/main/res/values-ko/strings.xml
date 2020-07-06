@@ -51,7 +51,7 @@
     <string name="text_license_title">소보로를 사용하려면 아래의 빈칸에 라이선스를 입력하세요.</string>
     <string name="text_license_hint">라이선스를 입력하세요.</string>
     <string name="translation_stop_message_without_voice">5분 동안 음성 입력이 없어 문자 통역이 자동 정지되었습니다.</string>
-    <string name="delete_translation_dialog_title">자막을 삭제하시겠습니까?</string>
+    <string name="delete_translation_dialog_title">모든 자막을 삭제하시겠습니까?</string>
     <string name="delete_translation_dialog_content">자막이 삭제되면 다시 복구할 수 없습니다.</string>
     <string name="delete_translation_dialog_positivie_btn_title">삭제</string>
     <string name="delete_translation_dialog_nagativie_btn_title">취소</string>
@@ -84,6 +84,7 @@
     <string name="title_activity_custom_guide">고객가이드</string>
     <string name="fragment_library_bottm_button_title1">목록</string>
     <string name="fragment_library_bottm_button_title2">달력</string>
+    <string name="fragment_library_selected_script_delete_dialog_title">개의 자막을 삭제하시겠습니까?               </string>
     <string-array name="school_array">
         <item>초등학교</item>
         <item>중학교</item>
