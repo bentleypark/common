@@ -93,8 +93,6 @@
         <item>고등학교</item>
         <item>학교를 선택하세요.</item>
     </string-array>
-
-    <!-- language -->
     <string-array name="school_grade_array">
         <item>1학년</item>
         <item>2학년</item>
@@ -156,6 +154,12 @@
 <!--        <item>통화 자막 시청 안내</item>-->
         <item>무선 마이크 사용 안내</item>
         <item>기타 유의사항</item>
+    </string-array>
+    <string-array name="tab_text_array">
+        <item>문자통역</item>
+        <item>라이브러리</item>
+        <item>소통공간</item>
+        <item>고객지원</item>
     </string-array>
     <string-array name="custom_weekdays">
         <item>MON</item>
