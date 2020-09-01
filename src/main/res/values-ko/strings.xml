@@ -148,9 +148,9 @@
         <item>정확도 부스터 안내</item>
         <item>소통공간 안내</item>
         <item>설정 안내</item>
-<!--        <item>라이브러리 안내</item>-->
+        <item>라이브러리 안내</item>
         <item>영상 자막 시청 안내</item>
-<!--        <item>통화 자막 시청 안내</item>-->
+        <item>통화 자막 시청 안내</item>
         <item>무선 마이크 사용 안내</item>
         <item>기타 유의사항</item>
     </string-array>
