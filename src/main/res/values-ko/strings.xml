@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
     <!-- title -->
     <string name="title_license">소보로 등록하기</string>
 
@@ -374,7 +375,7 @@
     &#160;2. “홈페이지”와 이용자 간에 제기된 전자상거래 소송에는 한국법을 적용합니다. <br /> ]]>
     </string>
     <string name="personal_information_processing_policy">
-<![CDATA[
+    <![CDATA[
 <p>
 ㈜소리를보는통로는 개인정보보호법에 따라 이용자의 개인정보 보호 및 권익을 보호하고 개인정보와 관련한 이용자의 고충을 원활하게 처리할 수 있도록 다음과 같은 처리방침을 두고 있습니다.<br />
 ㈜소리를보는통로는 회사는 개인정보처리방침을 개정하는 경우 웹사이트 공지사항(또는 개별공지)을 통하여 공지할 것입니다.<br />
