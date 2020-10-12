@@ -1,19 +1,19 @@
 apply plugin: 'com.android.library'
 
 android {
-    compileSdkVersion Config.compileSdkVersion
+    compileSdkVersion 29
+
     defaultConfig {
-        minSdkVersion Config.minSdkVersion
-        targetSdkVersion Config.targetSdkVersion
-        versionCode Config.versionCode
-        versionName Config.versionName
-        resConfigs "ko"
+        minSdkVersion 26
+        targetSdkVersion 29
+        versionCode 1
+        versionName "1.0"
     }
+
     buildTypes {
         release {
             minifyEnabled true
         }
-
         flavorDimensions "version"
         productFlavors {
             dev {
@@ -26,9 +26,5 @@ android {
                 dimension "version"
             }
         }
-    }
-    compileOptions {
-        sourceCompatibility = 1.8
-        targetCompatibility = 1.8
     }
 }
