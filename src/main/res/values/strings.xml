@@ -88,6 +88,30 @@
     <string name="fragment_library_bottm_button_title2">달력</string>
     <string name="fragment_library_selected_script_delete_dialog_title">개의 자막을 삭제하시겠습니까?               </string>
     <string name="no_choice">선택없음</string>
+    <string name="activity_favorite_app_bar_title">중요 자막</string>
+    <string name="favorite_script_not_found_message">중요 자막이 존재하지 않습니다.</string>
+    <string name="activity_save_button_title">저장</string>
+    <string name="activity_cancel_button_title">취소</string>
+    <string name="activity_script_registry_editext_hint">제목을 입력하세요.</string>
+    <string name="activity_script_search_editText_hint">단어 검색</string>
+    <string name="activity_script_search_not_found_message">해당 검색 결과가 없습니다.</string>
+    <string name="activity_tag_list_app_bar_title">태그 검색</string>
+    <string name="activity_tag_list_not_save_message">저장된 태그가 없습니다.</string>
+    <string name="fragment_booster_dialog_tv_user_title">사용자</string>
+    <string name="fragment_input_script_title_dialog_tv_title">파일 이름 입력</string>
+    <string name="fragment_input_script_title_dialog_et_input_name_hint">파일 이름을 입력하세요.</string>
+    <string name="fragment_library_tv_number_of_script_title">개의 자막</string>
+    <string name="fragment_library_btnSelectedRemove_title">선택 삭제</string>
+    <string name="fragment_library_btnAllRemove_title">전체 삭제</string>
+    <string name="fragmentDialog_tag_tv_title">태그 생성</string>
+    <string name="fragmentDialog_tag_et_input_tag_hint">태그를 입력하세요.</string>
+    <string name="fragment_script_file_sent_dialog_title">파일로 내보내기</string>
+    <string name="fragment_script_file_sent_dialog_guide_message">&quot;/Download/TabEdu&quot; 폴더에 저장 되었습니다.</string>
+    <string name="fragment_script_file_sent_dialog_btn_view_title">지금 보기</string>
+    <string name="fragment_script_list_no_script_message">저장된 자막이 없습니다.</string>
+    <string name="fragment_script_send_dialog_title">자막 내보내기</string>
+    <string name="fragment_script_send_dialog_tv_pdf_sent_title">PDF 문서로 내보내기</string>
+    <string name="fragment_script_send_dialog_tv_txt_sent_title">TXT 문서로 내보내기</string>
     <string-array name="school_array">
         <item>초등학교</item>
         <item>중학교</item>
