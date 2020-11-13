@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="app_name">sovoro_edu</string>
+    <string name="app_name">SOVORO EDU</string>
     <!-- title -->
     <string name="title_license">소보로 등록하기</string>
 
