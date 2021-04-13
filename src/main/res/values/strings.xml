@@ -166,7 +166,7 @@
     <string-array name="sovoro_info_array">
         <item>소보로 버전</item>
         <item>제품 라이선스</item>
-        <item>소보로탭 시리얼 넘버</item>
+        <item>소보로탭 Android ID</item>
         <item>안드로이드 버전</item>
     </string-array>
     <string-array name="custom_guide_array">
